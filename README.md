@@ -1,7 +1,14 @@
-# Hi 👋, I'm Vijaya Kumar A
+Hi 👋, I'm Vijaya Kumar A
+Aspiring Python Developer | Full Stack Developer | Data Engineering Enthusiast
 
-## Aspiring Data Engineer | Python Developer
+🎓 Computer Science graduate passionate about building scalable software and data-driven solutions
 
-- 🌱 Learning Data Engineering and Full Stack Development
-- 💻 Skilled in Python, Django, Next.js, SQL
-- 🚀 Interested in AI, IoT and Web Development
+💻 Skilled in Python, Django, React.js, Next.js, SQL, Pandas, and REST APIs
+
+🚀 Experienced in developing full-stack web applications and data engineering projects
+
+🌱 Currently strengthening my skills in Data Engineering, Django REST Framework, and modern web development
+
+🔍 Interested in AI, IoT, Web Development, and Data Analytics
+
+📫 Open to opportunities as a Python Developer, Software Developer, Full Stack Developer, or Data Engineer
